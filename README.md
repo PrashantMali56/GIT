@@ -1,4 +1,4 @@
 cerating and updating this file to see the conflicts
-Added few more things to check the to reduced conflict
+changed this line of documentation 
 
 Added few more changes 
