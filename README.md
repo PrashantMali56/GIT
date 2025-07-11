@@ -1,5 +1,5 @@
-cerating and updating this file to see the conflict
-Added few more things to check the to reduced conflicts 
+cerating and updating this file to see the conflicts
+changed this line of documentation 
 
 Added few more changes 
 added new things here in the prehookj branch
